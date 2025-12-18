@@ -1,0 +1,42 @@
+<!-- Footer -->
+<footer class="content-footer">
+    <div>© 2023 Wash - <a href="" target="_blank">Kelompok 38</a></div>
+    <div>
+        <nav class="nav">
+            <a href="https://themeforest.net/licenses/standard" class="nav-link">Licenses</a>
+            <a href="#" class="nav-link">Change Log</a>
+            <a href="#" class="nav-link">Get Help</a>
+        </nav>
+    </div>
+</footer>
+<!-- ./ Footer -->
+</div>
+<!-- ./ Content body -->
+</div>
+<!-- ./ Content wrapper -->
+</div>
+<!-- ./ Layout wrapper -->
+
+<!-- Main scripts -->
+<script src="<?= base_url('assets_Owner/'); ?>vendors/bundle.js"></script>
+
+<!-- Apex chart -->
+<script src="<?= base_url('assets_Owner/'); ?>vendors/charts/apex/apexcharts.min.js"></script>
+
+<!-- Daterangepicker -->
+<script src="<?= base_url('assets_Owner/'); ?>vendors/datepicker/daterangepicker.js"></script>
+
+<!-- DataTable -->
+<script src="<?= base_url('assets_Owner/'); ?>vendors/dataTable/datatables.min.js"></script>
+
+<!-- Lightbox -->
+<script src="<?= base_url('assets_Owner/'); ?>vendors/lightbox/jquery.magnific-popup.min.js"></script>
+
+<!-- Dashboard scripts -->
+<script src="<?= base_url('assets_Owner/'); ?>js/examples/pages/dashboard.js"></script>
+
+<!-- App scripts -->
+<script src="<?= base_url('assets_Owner/'); ?>js/app.min.js"></script>
+</body>
+
+</html>
